@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dark Lord</h1>
 <h3 align="center">Brother Of Hades And Nephew Of Zeus And Poseidon</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darklordsl123" alt="darklordsl123" /></a> </p>
 
 - 🔭 I’m Chillin' In [Telegram](https://t.me/Dark_LordSl)
 
-- 🌱 I’m Currently Learning **Programming**
+- 🌱 I’m Currently Learning **Python**
 
 - 👯 I’m A Noob At [Javascript](https://www.javascript.com)
 

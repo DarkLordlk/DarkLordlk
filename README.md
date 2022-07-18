@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dark Lord</h1>
 <h3 align="center">Brother Of Hades And Nephew Of Zeus And Poseidon</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=FF0000&lines=%3E+Hi+%F0%9F%91%8B+I+Am+Dark+Lord+;%3E+I'm+A+Programmer+From+Tartarus;%3E+This+Is+A+Small+Introduction+About+Me+%F0%9F%98%89)](https://git.io/typing-svg)
 
 - 🔭 I’m Chillin' In [Telegram](https://t.me/Dark_LordSl)
 

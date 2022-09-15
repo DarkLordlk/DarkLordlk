@@ -29,8 +29,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/DarkLordlk/DarkLordlk/main/icons/blender-original.svg" alt="blender" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Darklordlk/Darklordlk/main/icons/dot-net-plain-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Darklordlk/Darklordlk/main/icons/googlecloud-original.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Darklordlk/Darklordlk/main/icons/heroku-plain-wordmark.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Darklordlk/Darklordlk/main/icons/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a src="https://raw.githubusercontent.com/Darklordlk/Darklordlk/main/icons/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Darklordlk/Darklordlk/main/icons/mongodb-original-wordmark.svg" alt="darklordlk" width="40" height="40"/></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darklordlk&show_icons=true&locale=en&layout=compact" alt="darklordlk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darklordlk&show_icons=true&locale=en" alt="darklordlk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darklordlk&" alt="darklordlk" /></p>
+<h3 align="left">My Stats:</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darklordlk&show_icons=true&theme=radical&locale=en" alt="darklordlk" /></p>

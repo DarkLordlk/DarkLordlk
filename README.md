@@ -12,9 +12,9 @@
 
 - 👯 I’m A Noob At [Javascript](https://www.javascript.com)
 
-- 📫 How to reach me **darklordsl@outlook.com**
+- 📫 How to reach me **darklord@darklordmirror.ml**
 
-- ⚡ Fun fact **My Favourite Artist Is Rick Astley 😂**
+- ⚡ Fun fact **I Love Cats**
 
 <img src="https://raw.githubusercontent.com/DarkLordlk/DarkLordlk/main/icons/border.png" alt="darklordlk" />
 <p></p>

@@ -31,3 +31,5 @@
 
 <h3 align="left">My Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darklordlk&show_icons=true&theme=radical&locale=en" alt="darklordlk" /></p>
+
+[![Music Player](https://spotify-github-profile.vercel.app/api/view?uid=zri06u5lbxdhduygpjdk31u1g&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/DarkLordlk)
